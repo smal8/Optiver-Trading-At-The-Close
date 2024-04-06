@@ -1,2 +1,3 @@
 # Optiver-Trading-At-The-Close
-Kaggle x Optiver Contest 
+
+Bronze Medal, Rank: 366/4436
